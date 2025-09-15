@@ -11,6 +11,8 @@ A starter to build web applications on Reddit's developer platform
 
 ## Getting Started
 
+🔗 https://rsn601kri.github.io/Mystery-Hunt/
+
 > Make sure you have Node 22 downloaded on your machine before running!
 
 1. Run `npm create devvit@latest --template=react`
